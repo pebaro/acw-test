@@ -1,5 +1,5 @@
 acw-test
-## trial by code and not with my A Game
+## trial by code (and not with my A Game)
 
 Things that are either being worked on or need to be worked on:
 
